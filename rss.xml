@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yuncker.com]]></title>
+        <description><![CDATA[yuncker.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 16:07:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Giving Thanks for a great Thanksgiving Weekend.]]></title>
+            <description><![CDATA[<article><h1>Giving Thanks for a great Thanksgiving Weekend.</h1><p>Thanksgiving Weekend 2015</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8821154b-bd42-4089-8b69-6edb9296b82c.jpg"></article>]]></description>
+            <link>undefinedgiving-thanks-for-a-great-thanksgiving-weekend/index.html</link>
+            <guid isPermaLink="false">76bf2c4d-77fa-49d5-8f3c-c051a898c9b5</guid>
+            <pubDate>Mon, 30 Nov 2015 16:07:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
