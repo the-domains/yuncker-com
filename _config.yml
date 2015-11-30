@@ -1,6 +1,6 @@
 name: yuncker.com
 favicon: null
-layout_spectrum: 0.9741193426307291
+layout_spectrum: 0.25145
 typography_spectrum: 0.8407876552082598
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.7446960508823395
+  brandStrength: 0.125
   lightness: 0.9537281191442162
   saturation: 0.5348895273637027
   rhythmicContrast: 0.15725084044970572
