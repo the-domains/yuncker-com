@@ -4,7 +4,7 @@
         <description><![CDATA[Paul Yuncker]]></description>
         <link>https://thegrid.ai/yuncker-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 17:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 17:19:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yuncker-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Giving Thanks for a great Thanksgiving Weekend.]]></title>
@@ -14,10 +14,10 @@
             <pubDate>Mon, 30 Nov 2015 16:07:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[End of Summer]]></title>
-            <description><![CDATA[<article><h1>End of Summer</h1><p>End Of Summer</p><img src="https://i0.wp.com/yuncker.files.wordpress.com/2015/09/fullsizerender.jpg?fit=440%2C330"></article>]]></description>
-            <link>https://yuncker.wordpress.com/2015/09/24/end-of-summer/</link>
-            <guid isPermaLink="false">a174ebcd-0996-4c71-b68c-117267bd700c</guid>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/yuncker-com/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">6d9db28f-2c42-4706-8561-10fac0de4f68</guid>
             <pubDate>Mon, 30 Nov 2015 17:15:02 GMT</pubDate>
         </item>
     </channel>
