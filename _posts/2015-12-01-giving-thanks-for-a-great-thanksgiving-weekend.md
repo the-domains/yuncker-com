@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Images from the long holiday weekend.
-datePublished: '2015-12-01T21:55:46.011Z'
-dateModified: '2015-12-01T21:55:16.400Z'
+datePublished: '2015-12-01T22:01:26.938Z'
+dateModified: '2015-12-01T22:01:15.629Z'
 title: Giving Thanks for a Great Thanksgiving Weekend
 author: []
+sourcePath: _posts/2015-12-01-giving-thanks-for-a-great-thanksgiving-weekend.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-01-giving-thanks-for-a-great-thanksgiving-weekend.md
-published: true
 url: giving-thanks-for-a-great-thanksgiving-weekend/index.html
 _type: Article
 
 ---
 # Giving Thanks for a Great Thanksgiving Weekend
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaa0e902-9aba-49fe-aac1-7effe4c731a1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99e189c6-0465-4985-97f3-60ef184e5b3c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4deff211-8cbe-49f4-8292-5d9b0b82ae3c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46ef9ff9-f0ac-4f58-9c1c-126e35d30ad4.jpg)
@@ -39,6 +40,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4bd2780-8578-499d-815b-1cbd23cfccbc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46eb00bd-de89-45fb-b6f6-0f2be3ee5cb9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acc94c04-249b-4865-8397-9efaa1e8532d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaa0e902-9aba-49fe-aac1-7effe4c731a1.jpg)
 
 #
