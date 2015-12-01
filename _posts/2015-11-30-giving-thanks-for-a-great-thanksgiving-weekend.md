@@ -6,29 +6,28 @@ inLanguage: null
 starred: true
 keywords: []
 description: Thanksgiving Weekend 2015
-datePublished: '2015-11-30T16:07:04.974Z'
-dateModified: '2015-11-30T16:06:47.093Z'
-title: Giving Thanks for a great Thanksgiving Weekend.
+datePublished: '2015-12-01T18:29:33.036Z'
+dateModified: '2015-12-01T18:28:34.284Z'
+title: Giving Thanks for a Great Thanksgiving Weekend.
 author: []
+sourcePath: _posts/2015-11-30-giving-thanks-for-a-great-thanksgiving-weekend.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-30-giving-thanks-for-a-great-thanksgiving-weekend.md
-published: true
 url: giving-thanks-for-a-great-thanksgiving-weekend/index.html
 _type: Article
 
 ---
-# Giving Thanks for a great Thanksgiving Weekend.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8821154b-bd42-4089-8b69-6edb9296b82c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/458b8b81-5637-41b9-9a9b-5cc7725a6b6f.jpg)
+Pictures from over the holiday weekend.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/008d924f-09da-41a0-98b2-56c091d821b7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2547dc70-6cb7-46e8-a915-e8135e0eb178.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8821154b-bd42-4089-8b69-6edb9296b82c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/865ec15d-3291-4377-bb8e-057bddb5f2a8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6411741c-a91b-488f-b728-10f2d35bcb1e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/458b8b81-5637-41b9-9a9b-5cc7725a6b6f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4b9d2d2-f1dc-4404-86eb-b7109a41b825.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b2c52eb-cf6f-4253-ab26-793e65582433.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62d05351-d82d-449b-99be-0b53bf46e4e8.jpg)
