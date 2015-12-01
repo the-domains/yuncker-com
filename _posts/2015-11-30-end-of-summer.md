@@ -3,29 +3,28 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Here are  a few shots from the last couple of months at the lake house.
-datePublished: '2015-11-30T19:01:46.061Z'
-dateModified: '2015-11-30T19:01:03.374Z'
+datePublished: '2015-12-01T18:29:17.066Z'
+dateModified: '2015-11-30T19:30:43.467Z'
 title: End Of Summer
 author: []
+sourcePath: _posts/2015-11-30-end-of-summer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-30-end-of-summer.md
-published: true
 url: end-of-summer/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e058c2e-8f87-4caf-8f09-fc977ca4b10c.jpg)
-
 End Of Summer Shots from the last few months of summer.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5be010c7-7d17-45af-b652-673e6d374e99.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e058c2e-8f87-4caf-8f09-fc977ca4b10c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ded3035-5ab9-4aa8-bd6b-53a16677ffd0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aee66273-5ca2-4b18-b3d1-1b55a8986b70.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a9ee68-d1f9-4c97-a80d-9a3f79325f39.jpg)
