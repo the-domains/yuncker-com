@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Images from the long holiday weekend.
-datePublished: '2015-12-01T22:01:26.938Z'
-dateModified: '2015-12-01T22:01:15.629Z'
+datePublished: '2015-12-02T02:44:58.063Z'
+dateModified: '2015-12-02T02:44:02.566Z'
 title: Giving Thanks for a Great Thanksgiving Weekend
 author: []
 sourcePath: _posts/2015-12-01-giving-thanks-for-a-great-thanksgiving-weekend.md
