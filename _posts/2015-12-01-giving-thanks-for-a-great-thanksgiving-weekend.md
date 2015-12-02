@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Images from the long holiday weekend.
-datePublished: '2015-12-02T02:44:58.063Z'
-dateModified: '2015-12-02T02:44:02.566Z'
+datePublished: '2015-12-02T14:30:34.235Z'
+dateModified: '2015-12-02T14:29:53.526Z'
 title: Giving Thanks for a Great Thanksgiving Weekend
 author: []
 sourcePath: _posts/2015-12-01-giving-thanks-for-a-great-thanksgiving-weekend.md
@@ -23,22 +23,21 @@ _type: Article
 
 ---
 # Giving Thanks for a Great Thanksgiving Weekend
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaa0e902-9aba-49fe-aac1-7effe4c731a1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99e189c6-0465-4985-97f3-60ef184e5b3c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4deff211-8cbe-49f4-8292-5d9b0b82ae3c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46ef9ff9-f0ac-4f58-9c1c-126e35d30ad4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d95e2f0-e55f-4999-9849-b9d88cd86b87.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ceec2633-f1b3-4f62-a933-ed4e950a4719.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/839be67d-64a2-47cb-a390-cfc40eae66c4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af84c9c3-66ad-4b5c-b324-ce8211283b28.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b532c3a9-95d5-4dc4-9f38-e62bafc7a76e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/342b8536-ec8e-49dd-a5ed-0c00c1cf24e1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d251bf92-dbd7-4bb7-85da-dd60296bec38.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99bb9fed-744d-4a66-9b68-540cf5b608a4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f79d8856-26d3-4e4a-8e92-1608ac22faf2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0571320-6a67-46ef-a148-8de4e7dcf34e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4bd2780-8578-499d-815b-1cbd23cfccbc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46eb00bd-de89-45fb-b6f6-0f2be3ee5cb9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acc94c04-249b-4865-8397-9efaa1e8532d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c44f9c6-ec35-4220-90fa-c7c4d42ab4c7.jpg)
 
-#
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f99f30ed-40c7-45b0-abfb-a5b082a0bc7e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c1602c1-dffb-4c57-a49b-dacdb53a1c6b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36e8e197-29b5-4ca2-9f95-bef2284d7c46.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9bc01ad-6602-4031-aca3-7f30f0ce9d9f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f4e528b-a78c-4ebe-bc5d-3693638fc4c5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d9c156c-3477-4015-815b-b3451fb30b37.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aca1615-d775-466b-ace8-6d5cc8097f8d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7133bd62-4c2f-48db-88b5-de9de1a65bb4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/183210a9-0a31-498e-9067-3d4f495c9e9e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf76e97-eb7b-4c67-958d-93ae0233fe86.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77bb31bb-fec7-4c02-ba45-5bdfefcd62ab.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b483098-581a-477d-82a1-a873d3afcdc2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc27d08a-c0ac-4c9d-a9f3-3fe5c4e3fcec.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d88368f0-9989-40e8-a0e4-501db99673ac.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50e787bd-2e9f-4f71-94c2-94a63bbd2554.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cc17bca-8ce5-4408-b897-748aa8a227dc.jpg)
