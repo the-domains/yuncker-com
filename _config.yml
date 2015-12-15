@@ -1,41 +1,41 @@
-name: yuncker.com
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.24759
+title: Paul Yuncker
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Paul Yuncker
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0
+  brandStrength: 0.4340425
+  lightness: 0.5
   brandColors:
     - '#010101'
     - '#2f302b'
     - '#a8acaf'
     - '#656660'
     - '#f9f9f9'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: yuncker.com
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.24759
+layout_spectrum: 1
