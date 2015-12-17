@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Shots from the Thanksgiving Weekend
-datePublished: '2015-12-17T20:20:13.495Z'
-dateModified: '2015-12-17T20:20:04.994Z'
+datePublished: '2015-12-17T20:57:02.345Z'
+dateModified: '2015-12-17T20:56:54.399Z'
 title: Giving Thanks
 author: []
 sourcePath: _posts/2015-12-17-giving-thanks.md
@@ -35,3 +35,4 @@ Shots from over the Thanksgiving Weekend.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad933fe3-2807-4a41-919b-ddba7958ed59.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f031998-32ff-4003-8116-61afe86b67f1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19e2626c-d98d-4496-a4f8-cb718a9551a9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8d7c1d8-03bc-4501-b9a9-fc26a5e55c8f.JPG)
