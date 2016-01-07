@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Shots from the Thanksgiving Weekend
-datePublished: '2015-12-17T20:57:02.345Z'
-dateModified: '2015-12-17T20:56:54.399Z'
+datePublished: '2016-01-07T20:41:40.997Z'
+dateModified: '2016-01-04T17:43:37.713Z'
 title: Giving Thanks
 author: []
 sourcePath: _posts/2015-12-17-giving-thanks.md
