@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-29T18:00:35.872Z'
-dateModified: '2015-12-29T18:00:21.388Z'
+description: 'Snow, Snow, Snow and a lot of food and drink'
+datePublished: '2016-01-07T20:41:51.862Z'
+dateModified: '2016-01-04T17:44:15.432Z'
 title: Park City Holiday
 author: []
+sourcePath: _posts/2015-12-29-park-city-holiday.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-park-city-holiday.md
-published: true
 url: park-city-holiday/index.html
 _type: Article
 
