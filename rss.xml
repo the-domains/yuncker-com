@@ -4,7 +4,7 @@
         <description><![CDATA[Paul Yuncker]]></description>
         <link>https://thegrid.ai/yuncker-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 13:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 13:56:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yuncker-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/yuncker-com/park-city-holiday/index.html</link>
             <guid isPermaLink="false">1432a475-19fe-4e77-87d8-8568a7f58245</guid>
             <pubDate>Thu, 07 Jan 2016 20:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giving Thanks]]></title>
-            <description><![CDATA[<article><h1>Giving Thanks</h1><p>Shots from the Thanksgiving Weekend</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c027311a8be79e564b7771bd792135c14f146141.jpg"></article>]]></description>
-            <link>https://thegrid.ai/yuncker-com/giving-thanks/index.html</link>
-            <guid isPermaLink="false">9e96fe80-9f3d-4e09-a0df-53f2009be522</guid>
-            <pubDate>Thu, 07 Jan 2016 20:41:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
