@@ -4,7 +4,7 @@
         <description><![CDATA[Paul Yuncker]]></description>
         <link>https://thegrid.ai/yuncker-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 13:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 13:56:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yuncker-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/yuncker-com/light/index.html</link>
             <guid isPermaLink="false">db40c706-9d77-49b0-b61d-b25b82bbc17f</guid>
             <pubDate>Thu, 10 Mar 2016 15:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Park City Holiday]]></title>
-            <description><![CDATA[<article><h1>Park City Holiday</h1><p>We just returned from spending the holidays in Park City.   Lots of snow, cold, food and drink.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5f1569320af07b00cef2f43f6f7eae923491149.jpg"></article>]]></description>
-            <link>https://thegrid.ai/yuncker-com/park-city-holiday/index.html</link>
-            <guid isPermaLink="false">1432a475-19fe-4e77-87d8-8568a7f58245</guid>
-            <pubDate>Thu, 07 Jan 2016 20:41:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
