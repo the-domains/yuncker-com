@@ -4,8 +4,15 @@
         <description><![CDATA[Paul Yuncker]]></description>
         <link>https://thegrid.ai/yuncker-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 17:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 17:03:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yuncker-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nature]]></title>
+            <description><![CDATA[<article><h1>Nature</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce47d009ccf5200c071c838fa89d12e5edf5e2b9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/yuncker-com/nature/index.html</link>
+            <guid isPermaLink="false">ee2df33f-740a-405b-a0d2-8ec74a3ec0ba</guid>
+            <pubDate>Fri, 03 Jun 2016 17:03:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Light]]></title>
             <description><![CDATA[<article><h1>Light</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/970eabc64675a897de669c91c4f4f8a3b938d6e5.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/yuncker-com/structure/index.html</link>
             <guid isPermaLink="false">ba92470d-3936-4d54-ab1e-225514d32afe</guid>
             <pubDate>Mon, 14 Mar 2016 19:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nature]]></title>
-            <description><![CDATA[<article><h1>Nature</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce47d009ccf5200c071c838fa89d12e5edf5e2b9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/yuncker-com/nature/index.html</link>
-            <guid isPermaLink="false">ee2df33f-740a-405b-a0d2-8ec74a3ec0ba</guid>
-            <pubDate>Sat, 12 Mar 2016 14:07:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
