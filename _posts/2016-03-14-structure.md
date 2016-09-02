@@ -1,29 +1,30 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T19:59:23.361Z'
-dateModified: '2016-03-12T14:12:55.530Z'
+datePublished: '2016-08-30T17:26:54.846Z'
+dateModified: '2016-08-17T17:27:58.525Z'
 title: Structure
 author: []
+sourcePath: _posts/2016-03-14-structure.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-structure.md
-published: true
+via: {}
+starred: false
 url: structure/index.html
 _type: Article
 
 ---
 # Structure
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12f49b60-8b30-4779-b3ef-04c114164430.jpg)
+
+Layers upon layers of structural materials. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12f49b60-8b30-4779-b3ef-04c114164430.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5ecc5b3-0654-4c4d-914a-5aedb34f937d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/faa72467-39ad-4e7c-a920-3501cb06e25a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2904753-d56e-4943-88a2-00b62f577733.jpg)
